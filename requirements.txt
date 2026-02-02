@@ -1,0 +1,21 @@
+langchain
+
+# Environment variable management
+python-dotenv
+
+# UI
+streamlit
+
+# Google Gemini (NEW)
+langchain-google-genai
+google-generativeai
+
+# Hugging Face Embeddings
+sentence-transformers
+langchain-huggingface
+
+# ML / DL
+tf-keras
+
+# Local LLMs
+langchain-ollama
